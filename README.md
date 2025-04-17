@@ -1,23 +1,85 @@
-<img align="center" width=100% src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif">
-<h1 align="center">Hello there 👋, I'm Pierotti</h1>
-<h3 align="center">Student of the prestigious Coding School💻42 Wolfsburg ✨</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h1 align="center">Hi there 👋, I'm Pierotti</h1>
+<h3 align="center">Aspiring Software Engineer | Student at <a href="https://42wolfsburg.de/">42 Wolfsburg</a></h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-
-- 🔭 I’m currently working on [Core Curriculum of 42 Wolfsburg](https://42wolfsburg.de/42-programming-curriculum/?cmplz-force-reload=1710612664507)
-
-- 🌱 I’m currently learning **C/C++, Bash, Python**
-
-
-
-<p align="left">
+<p align="center">
+  <a href="https://github.com/pfalli">
+    <img src="https://img.shields.io/badge/GitHub-pfalli-black?style=for-the-badge&logo=github" alt="GitHub Badge" />
+  </a>
+  <a href="https://42wolfsburg.de/42-programming-curriculum/">
+    <img src="https://img.shields.io/badge/Core%20Curriculum-42%20Wolfsburg-00BEFF?style=for-the-badge&logo=42&logoColor=white" alt="42 Wolfsburg Curriculum" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp
-<p>&nbsp;<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pfalli&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+## 🚀 About Me
+
+- 🔭 I’m currently working on the [Core Curriculum at 42 Wolfsburg](https://42wolfsburg.de/42-programming-curriculum/)
+- 🌱 I’m learning **C, C++, Bash & Python**
+- 💬 Ask me about algorithms, data structures, or low-level systems
+
+---
+
+## 🔧 Technologies & Tools
+
+<p align="left">
+  <!-- Low-level Languages & Scripting -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+
+  <!-- Web Development -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
+
+  <!-- APIs & Testing -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40" />
+
+  <!-- DevOps & Cloud -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
+
+</p>
 
 
+
+## 📂 Projects
+
+| Project    | Description                                              | Link                                             |
+| ---------- | -------------------------------------------------------- | ------------------------------------------------ |
+| Core Shell | A custom shell in C with builtins, redirection & piping  | [Repo](https://github.com/pfalli/coreshell)      |
+| Pipex      | Reimplementation of Unix pipe utilities in C             | [Repo](https://github.com/pfalli/pipex)          |
+| Bash42     | Collection of Bash scripts for workflow automation       | [Repo](https://github.com/pfalli/bash42)         |
+
+
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-YOUR_EMAIL-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Pierotti-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER">
+    <img src="https://img.shields.io/badge/Twitter-@YOUR_TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
+
+---
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
