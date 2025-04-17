@@ -14,16 +14,16 @@
 
 ## 🚀 About Me
 
-🔹 I’m Pierotti, a collaborative problem‑solver who thrives in fast‑paced tech environments🤝
-🔹 As a student at 42 Wolfsburg, I embrace hands‑on challenges and learn by building real systems 
-🔹 I bring curiosity and creativity to every project, whether I’m scripting in Bash or crafting React UIs💡
-🔹 Teamwork is my superpower: I listen actively, share knowledge freely, and adapt to diverse work styles
-🔹 I value open communication and celebrate wins—big or small—together with my peers
-🔹 My work style is proactive: I spot inefficiencies, propose improvements, and iterate quickly🔍
-🔹 I’m passionate about clean code, thorough testing, and scalable architectures
-🔹 Driven by continuous learning, I explore AI APIs, containerization, and cloud services in my free time🌱
-🔹 Beyond code, I enjoy mentoring new learners and contributing to a positive, growth‑oriented culture
-🔹 Let’s connect—together we can turn ambitious ideas into impactful solutions🚀
+🔹 I’m Pierotti, a collaborative problem‑solver who thrives in fast‑paced tech environments🤝  
+🔹 As a student at 42 Wolfsburg, I embrace hands‑on challenges and learn by building real systems   
+🔹 I bring curiosity and creativity to every project, whether I’m scripting in Bash or crafting React UIs💡  
+🔹 Teamwork is my superpower: I listen actively, share knowledge freely, and adapt to diverse work styles  
+🔹 I value open communication and celebrate wins—big or small—together with my peers  
+🔹 My work style is proactive: I spot inefficiencies, propose improvements, and iterate quickly🔍  
+🔹 I’m passionate about clean code, thorough testing, and scalable architectures  
+🔹 Driven by continuous learning, I explore AI APIs, containerization, and cloud services in my free time🌱  
+🔹 Beyond code, I enjoy mentoring new learners and contributing to a positive, growth‑oriented culture  
+🔹 Let’s connect—together we can turn ambitious ideas into impactful solutions🚀  
 
 
 ---
